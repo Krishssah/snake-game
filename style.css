@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+  text-align: center;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
+h1 {
+  margin-top: 20px;
+}
+
+.info {
+  margin: 10px;
+  font-size: 18px;
+}
+
+canvas {
+  background: black;
+  border: 3px solid #00ffcc;
+  margin-top: 10px;
+}
+
+button {
+  margin-top: 15px;
+  padding: 10px 25px;
+  font-size: 16px;
+  background: #00ffcc;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #00cc99;
+}
