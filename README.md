@@ -2,6 +2,7 @@
 
 A modern and interactive Snake Game built using pure HTML, CSS, and JavaScript.
 This project runs entirely on the frontend and is designed with smooth animations, sound effects, and a clean UI.
+LIVE link as - https://krishssah.github.io/snake-game/
 
 ✨ Features
 
